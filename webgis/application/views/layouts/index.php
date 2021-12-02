@@ -5,7 +5,7 @@
                     <div align = "center">
                     <h1 class="h3 mb-4 text-gray-800 font-weight-bold">WebGIS<br>
                                                      Data Pariwisata<br>
-                                                    di Kabupaten Tanggamus</h1>
+                                                    di Kabupaten Pringsewu</h1>
                     <picture>
                     <img src="Index.jpg"  width= "700px">
                     </picture>
